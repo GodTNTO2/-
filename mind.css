@@ -1,0 +1,15 @@
+h1{
+	text-align: center;
+	color:#178A49;
+}
+body{
+	background-image: url(https://img1.akspic.ru/image/107660-sinij_cvet-krug-simmetriya-liniya-uzor-2048x1152.jpg);
+}
+#div1{
+	display: block;
+	margin-left:300px;
+	margin-right:300px;
+}
+p{
+	color:#178A49;
+}
